@@ -8,6 +8,7 @@ public class OAuthDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OAuthDemoApplication.class, args);
+		System.out.println("Application started successfully");
 	}
 
 }
